@@ -1,17 +1,29 @@
 # 🟢 Level 1 – Very Basic (Syntax + Operators)
-1️⃣ Print Hello World
-2️⃣ Take user input and print it
-3️⃣ Add two numbers (input from user)
-4️⃣ Check if number is even or odd
-5️⃣ Swap two numbers
+
+1️. Print Hello World
+
+2️. Take user input and print it
+
+3️. Add two numbers (input from user)
+
+4️. Check if number is even or odd
+
+5️. Swap two numbers
+
 - Using third variable
 - Without third variable
-6️⃣ Find largest of 3 numbers
-7️⃣ Check if number is positive, negative, or zero
-8️⃣ Calculate simple interest
+
+6️. Find largest of 3 numbers
+
+7️. Check if number is positive, negative, or zero
+
+8️. Calculate simple interest
+
 - Formula: (P * R * T) / 100
-9️⃣ Convert Celsius to Fahrenheit
-🔟 Check if a number is divisible by 5 and 11
+
+9️. Convert Celsius to Fahrenheit
+
+1️0. Check if a number is divisible by 5 and 11
 
 # 🟡 Level 2 – Loops Practice
 1️⃣ Print numbers from 1 to 100
