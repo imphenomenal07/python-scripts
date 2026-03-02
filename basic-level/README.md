@@ -26,80 +26,85 @@
 1️0. Check if a number is divisible by 5 and 11
 
 # 🟡 Level 2 – Loops Practice
-1️⃣ Print numbers from 1 to 100
-2️⃣ Print even numbers from 1 to 50
-3️⃣ Print multiplication table of a number
-4️⃣ Find sum of first N natural numbers
-5️⃣ Reverse a number
+
+1️. Print numbers from 1 to 100
+2️. Print even numbers from 1 to 50
+3️. Print multiplication table of a number
+4️. Find sum of first N natural numbers
+5️. Reverse a number
 - Input: 1234 → Output: 4321
-6️⃣ Count digits in a number
-7️⃣ Check if number is palindrome
+6️. Count digits in a number
+7️. Check if number is palindrome
 - 121 → True
-8️⃣ Print Fibonacci series up to N terms
-9️⃣ Factorial of a number
-🔟 Check if number is prime
+8️. Print Fibonacci series up to N terms
+9️. Factorial of a number
+10. Check if number is prime
 
 # 🟠 Level 3 – Strong Logic Building
-1️⃣ Find GCD of two numbers
-2️⃣ Find LCM of two numbers
-3️⃣ Armstrong number check
-- 153 → True
-4️⃣ Sum of digits of a number
-5️⃣ Find largest digit in a number
-6️⃣ Print all prime numbers between 1–100
-7️⃣ Pattern Printing
-- Square:
-*****
-*****
-*****
-*****
-*****
 
+1️. Find GCD of two numbers
+2️. Find LCM of two numbers
+3️. Armstrong number check
+- 153 → True
+4️. Sum of digits of a number
+5️. Find largest digit in a number
+6️. Print all prime numbers between 1–100
+7️. Pattern Printing
+- Square:
+  * * * *
+  * * * *
+  * * * *
+  * * * *
+  
 - Right triangle:
-*
-**
-***
-****
-*****
+  *
+  **
+  ***
+  ****
+  *****
 
 - Reverse triangle:
-*****
-****
-***
-**
-*
-
+  *****
+  ****
+  ***
+  **
+  *
+  
 - Number pattern:
-1
-12
-123
-1234
-
+  1
+  1 2
+  1 2 3
+  1 2 3 4
+  
 # 🔵 Level 4 – Lists & Basic Data Structures
-1️⃣ Find largest number in list
-2️⃣ Remove duplicates from list
-3️⃣ Count frequency of each element in list
-4️⃣ Sort list without using sort()
-5️⃣ Find second largest number
-6️⃣ Reverse list without using reverse()
-7️⃣ Merge two lists
-8️⃣ Find common elements in two lists
+
+1️. Find largest number in list
+2️. Remove duplicates from list
+3️. Count frequency of each element in list
+4️. Sort list without using sort()
+5️. Find second largest number
+6️. Reverse list without using reverse()
+7️. Merge two lists
+8️. Find common elements in two lists
 
 # 🟣 Level 5 – Strings
-1️⃣ Count vowels in string
-2️⃣ Reverse a string
-3️⃣ Check if string is palindrome
-4️⃣ Count occurrences of a character
-5️⃣ Remove spaces from string
-6️⃣ Find longest word in sentence
-7️⃣ Convert string to title case (without built-in)
+
+1️. Count vowels in string
+2️. Reverse a string
+3️. Check if string is palindrome
+4️. Count occurrences of a character
+5️. Remove spaces from string
+6️. Find longest word in sentence
+7️. Convert string to title case (without built-in)
 
 # 🔥 Advanced Beginner Challenges
-1️⃣ FizzBuzz (1–100)
+
+1️. FizzBuzz (1–100)
 Rules:
 - Divisible by 3 → Fizz
 - Divisible by 5 → Buzz
 - Divisible by both → FizzBuzz
-2️⃣ Guess the Number Game
-3️⃣ Generate Random Password
-4️⃣ Basic ATM Program
+
+2️. Guess the Number Game
+3️. Generate Random Password
+4️. Basic ATM Program
