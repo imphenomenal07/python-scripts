@@ -28,28 +28,44 @@
 # 🟡 Level 2 – Loops Practice
 
 1️. Print numbers from 1 to 100
+
 2️. Print even numbers from 1 to 50
+
 3️. Print multiplication table of a number
+
 4️. Find sum of first N natural numbers
+
 5️. Reverse a number
 - Input: 1234 → Output: 4321
+
 6️. Count digits in a number
+
 7️. Check if number is palindrome
 - 121 → True
+
 8️. Print Fibonacci series up to N terms
+
 9️. Factorial of a number
+
 10. Check if number is prime
 
 # 🟠 Level 3 – Strong Logic Building
 
 1️. Find GCD of two numbers
+
 2️. Find LCM of two numbers
+
 3️. Armstrong number check
 - 153 → True
+
 4️. Sum of digits of a number
+
 5️. Find largest digit in a number
+
 6️. Print all prime numbers between 1–100
+
 7️. Pattern Printing
+
 - Square:
   * * * *
   * * * *
@@ -58,53 +74,72 @@
   
 - Right triangle:
   *
-  **
-  ***
-  ****
-  *****
+  * *
+  * * *
+  * * * *
+  * * * * *
 
 - Reverse triangle:
-  *****
-  ****
-  ***
-  **
+  * * * * *
+  * * * *
+  * * *
+  * *
   *
   
 - Number pattern:
   1
+  
   1 2
+  
   1 2 3
+
   1 2 3 4
   
 # 🔵 Level 4 – Lists & Basic Data Structures
 
 1️. Find largest number in list
+
 2️. Remove duplicates from list
+
 3️. Count frequency of each element in list
+
 4️. Sort list without using sort()
+
 5️. Find second largest number
+
 6️. Reverse list without using reverse()
+
 7️. Merge two lists
+
 8️. Find common elements in two lists
 
 # 🟣 Level 5 – Strings
 
 1️. Count vowels in string
+
 2️. Reverse a string
+
 3️. Check if string is palindrome
+
 4️. Count occurrences of a character
+
 5️. Remove spaces from string
+
 6️. Find longest word in sentence
+
 7️. Convert string to title case (without built-in)
 
 # 🔥 Advanced Beginner Challenges
 
 1️. FizzBuzz (1–100)
+
 Rules:
 - Divisible by 3 → Fizz
 - Divisible by 5 → Buzz
 - Divisible by both → FizzBuzz
 
 2️. Guess the Number Game
+
 3️. Generate Random Password
+
 4️. Basic ATM Program
