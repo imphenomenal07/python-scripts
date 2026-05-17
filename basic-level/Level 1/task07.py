@@ -1,4 +1,4 @@
-#7️. Check if number is positive, negative, or zero
+# 7️. Check if number is positive, negative, or zero
 
 num = int(input("Enter the your number: "))   #'float' can be used instead of 'int'
 
